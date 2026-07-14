@@ -11,7 +11,10 @@ public:
             return (g1 > 0 && g1 == g2);
         }
 
-        if (vis[i][g1][g2]) return dp[i][g1][g2];
+        if (vis[i][g1][g2]) {
+            return dp[i][g1][g2];
+        }
+        
         vis[i][g1][g2] = true;
 
         long long ans = 0;
