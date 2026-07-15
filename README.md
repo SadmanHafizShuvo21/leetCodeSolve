@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/0067-add-binary) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/3932-count-k-th-roots-in-a-range) |
@@ -104,4 +105,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
