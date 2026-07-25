@@ -1,10 +1,18 @@
 class Solution {
 public:
-    int maxProduct(int n) {
-        string s = std::to_string(n);
-        sort(s.rbegin(), s.rend());
+    using ll = long long;
+    const ll inf = 1e9;
 
-        int l = s.size() - 1;
-        return (s[0] - '0') * (s[1] - '0');
+    int maxProduct(int n) {
+        vector<ll> ans;
+        while(n > 0) {
+            ll rem = n % 10;
+            ans.push_back(rem);
+            n /= 10;
+        }
+
+        sort(ans.rbegin(), ans.rend());
+
+        return ans[0] * ans[1];
     }
 };
