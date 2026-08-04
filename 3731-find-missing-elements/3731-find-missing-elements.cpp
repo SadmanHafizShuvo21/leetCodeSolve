@@ -2,12 +2,13 @@ class Solution {
 public:
     using ll = long long;
     vector<int> findMissingElements(vector<int>& nums) {
-        ll mx = *std::max_element(nums.begin(), nums.end());
-        ll mn = *std::min_element(nums.begin(), nums.end());
+        std::sort(nums.begin(), nums.end());
+
+        ll l = nums[0], r = nums.back();
 
         std::set<int> s(nums.begin(), nums.end());
         std::vector<int> arr;
-        for (int i = mn; i <= mx; i++) {
+        for (int i = l; i <= r; i++) {
             if (s.contains(i)) {
                 continue;
             }
