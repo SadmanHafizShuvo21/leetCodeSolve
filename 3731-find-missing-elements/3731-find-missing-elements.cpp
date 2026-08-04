@@ -5,15 +5,12 @@ public:
         std::sort(nums.begin(), nums.end());
 
         ll l = nums[0], r = nums.back();
-
-        std::set<int> s(nums.begin(), nums.end());
+        std::unordered_set<int> s(nums.begin(), nums.end());
         std::vector<int> arr;
         for (int i = l; i <= r; i++) {
-            if (s.contains(i)) {
-                continue;
+            if (!s.count(i)) {
+                arr.push_back(i);
             }
-
-            arr.push_back(i);
         }
 
         return arr;
