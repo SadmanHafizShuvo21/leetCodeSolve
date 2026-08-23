@@ -30,11 +30,6 @@ public:
             return true;
         }
 
-        if (dif < 0) {
-            dif = - dif;
-            difSum = -difSum;
-        }
-
         return difSum + 9L * (dif / 2) != 0;
     }
 };
