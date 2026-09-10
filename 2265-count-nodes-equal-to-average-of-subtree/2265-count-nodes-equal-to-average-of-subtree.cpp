@@ -8,7 +8,9 @@ public:
         auto [rs, rc] = dfs(node->right);
         int sum = ls + rs + node->val;
         int cnt = lc + rc + 1;
-        if (sum / cnt == node->val) ans++;
+        if (sum / cnt == node->val) {
+            ans++;
+        }
         return {sum, cnt};
     }
     int averageOfSubtree(TreeNode* root) {
