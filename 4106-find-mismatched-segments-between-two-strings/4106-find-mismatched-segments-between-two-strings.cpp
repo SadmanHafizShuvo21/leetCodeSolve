@@ -2,9 +2,7 @@ class Solution {
 public:
     using ll = long long;
     vector<vector<string>> findMismatchedSegments(string s1, string s2) {
-        std::vector<ll> v;
-        
-        ll n = s1.size(), cnt = 1;
+        ll n = s1.size();
         std::string s, t;
         std::vector<std::vector<std::string>> pr;
         for (int i = 0; i < n; i++) {
