@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/0139-word-break) |
 | [0301-remove-invalid-parentheses](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/0856-score-of-parentheses) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0139-word-break](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/0877-stone-game) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/0202-happy-number) |
 | [1096-brace-expansion-ii](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/1331-rank-transform-of-an-array) |
@@ -608,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/0139-word-break) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
@@ -625,4 +630,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
