@@ -7,6 +7,6 @@ public:
             x--;
         }
 
-        return x % 2 == 9 % 2;
+        return x % 2 == 1;
     }
 };
