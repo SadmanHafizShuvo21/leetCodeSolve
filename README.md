@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/2029-stone-game-ix) |
 | [2409-count-days-spent-together](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/2409-count-days-spent-together) |
+| [2485-find-the-pivot-integer](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/1872-stone-game-viii) |
+| [2485-find-the-pivot-integer](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/2485-find-the-pivot-integer) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/3903-smallest-stable-index-i) |
