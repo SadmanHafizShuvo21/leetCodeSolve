@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/2333-minimum-sum-of-squared-difference) |
