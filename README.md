@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SadmanHafizShuvo21/https-github.com-SadmanHafizShuvo21-LeetCode-/tree/master/0202-happy-number) |
